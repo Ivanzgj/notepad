@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "nothig anyway"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "first arkUI app"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "hello world"
+    },
+    {
+      "name": "StackAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "StackAbility_label",
+      "value": "stackLayer"
+    }
+  ]
+}
